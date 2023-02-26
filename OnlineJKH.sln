@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineJKH", "OnlineJKH\OnlineJKH.csproj", "{ED0D9794-23C2-4BC6-98FD-73F07F3D309D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineJKH.Tests", "OnlineJKH.Tests\OnlineJKH.Tests.csproj", "{B7FBD9E1-36EE-4084-AD1E-468B3912DA1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0D9794-23C2-4BC6-98FD-73F07F3D309D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0D9794-23C2-4BC6-98FD-73F07F3D309D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0D9794-23C2-4BC6-98FD-73F07F3D309D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0D9794-23C2-4BC6-98FD-73F07F3D309D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FBD9E1-36EE-4084-AD1E-468B3912DA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FBD9E1-36EE-4084-AD1E-468B3912DA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FBD9E1-36EE-4084-AD1E-468B3912DA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FBD9E1-36EE-4084-AD1E-468B3912DA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D95D4A9F-EFC0-41F9-A664-9F09A1AEB64A}
+	EndGlobalSection
+EndGlobal
